@@ -5,4 +5,5 @@
 3-listfiles: Lish all files in current directory in long format.\
 4-listmorefiles: List all files including hidden files in long format.\
 5-listfilesdigitonly: List all files including hidden files with user and group IDs displayed numerically in Long format.\
-6-firstdirectory: Create a directory called "my_first_directory" in the /tmp/.
+6-firstdirectory: Create a directory called "my_first_directory" in the /tmp/.\
+7-movethatfile: Move file from a dir to another dir.
