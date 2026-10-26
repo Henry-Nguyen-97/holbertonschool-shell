@@ -11,4 +11,5 @@
 9-firstdirdeletion: Delete directory.\
 10-back: Move up 1 dir.\
 11-lists: List files in current, parent, boot dir in long format including hidden./
-12-file_type: Print file type of a file.
+12-file_type: Print file type of a file.\
+13-symbolic_link: Create symbolic link.
