@@ -10,4 +10,5 @@
 8-firstdelete: Delete a file from a specific dir.\
 9-firstdirdeletion: Delete directory.\
 10-back: Move up 1 dir.\
-11-lists: List files in current, parent, boot dir in long format including hidden.
+11-lists: List files in current, parent, boot dir in long format including hidden./
+12-file_type: Print file type of a file.
