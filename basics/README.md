@@ -1,0 +1,2 @@
+##What scripts do\
+0-current_working_directory: Print current working directory\
