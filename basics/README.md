@@ -9,4 +9,5 @@
 7-movethatfile: Move file from a dir to another dir.\
 8-firstdelete: Delete a file from a specific dir.\
 9-firstdirdeletion: Delete directory.\
-10-back: Move up 1 dir.
+10-back: Move up 1 dir.\
+11-lists: List files in current, parent, boot dir in long format including hidden.
