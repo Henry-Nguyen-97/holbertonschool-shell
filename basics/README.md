@@ -15,4 +15,5 @@
 13-symbolic_link: Create symbolic link.\
 14-copy_html: Update files from current dir to parant dir.\
 15-lets_move: Move all files start with upper case.\
-16-clean_emacs: Delete files end with ~
+16-clean_emacs: Delete files end with ~.\
+17-tree: Create a tree dir.
