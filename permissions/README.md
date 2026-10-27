@@ -9,4 +9,5 @@
 7-everybody: Add exe perm to everyone.
 8-James_Bond: No perm for u and g but all perm for o.\
 9-John_Doe: Specific change perm.\
-10-mirror_permissions: Copy perms.
+10-mirror_permissions: Copy perms.\
+11-directories_permissions: Give exe perm to all subdir of current dir, file untouched.
