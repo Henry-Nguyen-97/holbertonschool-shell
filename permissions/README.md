@@ -3,4 +3,5 @@
 1-who_am_i: Check current user.\
 2-groups: Check current group of current user.\
 3-new_owner: Change owner of a file.\
-4-empty: Create an empty "hello" file.
+4-empty: Create an empty "hello" file.\
+5-execute: Add execute perm for user to a file.
