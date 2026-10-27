@@ -12,4 +12,5 @@
 10-mirror_permissions: Copy perms.\
 11-directories_permissions: Give exe perm to all subdir of current dir, file untouched.\
 12-directory_permissions: Create dir with perms.\
-13-change_group: Change group of file.
+13-change_group: Change group of file.\
+14-change_owner_and_group: Change owner and group of all files and dir in current dir.
