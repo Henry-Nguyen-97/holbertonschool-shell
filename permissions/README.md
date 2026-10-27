@@ -8,4 +8,5 @@
 6-multiple_permissions: Add multi perms to multi targets for 1 file.\
 7-everybody: Add exe perm to everyone.
 8-James_Bond: No perm for u and g but all perm for o.\
-9-John_Doe: Specific change perm.
+9-John_Doe: Specific change perm.\
+10-mirror_permissions: Copy perms.
