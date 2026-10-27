@@ -7,3 +7,4 @@
 5-execute: Add execute perm for user to a file.\
 6-multiple_permissions: Add multi perms to multi targets for 1 file.\
 7-everybody: Add exe perm to everyone.
+8-James_Bond: No perm for u and g but all perm for o.
