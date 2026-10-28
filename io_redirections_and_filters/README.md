@@ -6,4 +6,5 @@
 4-lastlines: Display last 10 lines of file.\
 5-firstlines: Display first 10 lines of file.\
 6-third_line: Print 3rd line of file.\
-7-file: Create a file that print a text.
+7-file: Create a file that print a text.\
+8-cwd_state: Run a command then overwrite result in a file. The file is created if not existed
