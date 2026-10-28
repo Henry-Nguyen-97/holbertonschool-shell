@@ -8,4 +8,5 @@
 6-third_line: Print 3rd line of file.\
 7-file: Create a file that print a text.\
 8-cwd_state: Run a command then overwrite result in a file. The file is created if not existed\
-9-duplicate_last_line: Duplucate last lind of file.
+9-duplicate_last_line: Duplucate last lind of file.\
+10-no_more_js: Delete file ends with .js in currect dir and all sub dir"
