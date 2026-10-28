@@ -19,4 +19,5 @@
 17-hidethisword: Display any line without a word.\
 18-letteronly: Display all lines start with a letter.\
 19-AZ: Replace characters.\
-20-hiago: Remove letter from input.
+20-hiago: Remove letter from input.\
+21-reverse: Reverse input.
