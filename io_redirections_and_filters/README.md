@@ -17,4 +17,5 @@
 15-countthatword: Count word from a file.\
 16-whatsnext: Display anyline with "root" and 3 lines after it.\
 17-hidethisword: Display any line without a word.\
-18-letteronly: Display all lines start with a letter.
+18-letteronly: Display all lines start with a letter.\
+19-AZ: Replace characters.
