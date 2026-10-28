@@ -12,4 +12,5 @@
 10-no_more_js: Delete file ends with .js in currect dir and all sub dir".\
 11-directories: Count directories.\
 12-newest_files: List 10 dir from new to old. 1 each line.\
-13-unique: Take a list of input, sort that get output of only uniques. One data each line.
+13-unique: Take a list of input, sort that get output of only uniques. One data each line.\
+14-findthatword: Find a word from a file.
