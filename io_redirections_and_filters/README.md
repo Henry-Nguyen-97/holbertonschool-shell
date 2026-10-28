@@ -16,4 +16,5 @@
 14-findthatword: Find a word from a file.\
 15-countthatword: Count word from a file.\
 16-whatsnext: Display anyline with "root" and 3 lines after it.\
-17-hidethisword: Display any line without a word.
+17-hidethisword: Display any line without a word.\
+18-letteronly: Display all lines start with a letter.
