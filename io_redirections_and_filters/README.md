@@ -15,4 +15,5 @@
 13-unique: Take a list of input, sort that get output of only uniques. One data each line.\
 14-findthatword: Find a word from a file.\
 15-countthatword: Count word from a file.\
-16-whatsnext: Display anyline with "root" and 3 lines after it.
+16-whatsnext: Display anyline with "root" and 3 lines after it.\
+17-hidethisword: Display any line without a word.
