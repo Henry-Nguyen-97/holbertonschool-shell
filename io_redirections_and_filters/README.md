@@ -5,4 +5,5 @@
 3-twofiles: Display content of 2 files.\
 4-lastlines: Display last 10 lines of file.\
 5-firstlines: Display first 10 lines of file.\
-6-third_line: Print 3rd line of file.
+6-third_line: Print 3rd line of file.\
+7-file: Create a file that print a text.
