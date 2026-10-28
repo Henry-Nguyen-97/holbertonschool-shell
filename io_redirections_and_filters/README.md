@@ -20,4 +20,5 @@
 18-letteronly: Display all lines start with a letter.\
 19-AZ: Replace characters.\
 20-hiago: Remove letter from input.\
-21-reverse: Reverse input.
+21-reverse: Reverse input.\
+22-users_and_homes: Display users and homes from a file and sort them.
