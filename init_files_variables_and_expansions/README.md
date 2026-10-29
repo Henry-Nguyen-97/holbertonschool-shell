@@ -4,4 +4,5 @@
 2-path: Add a dir to the end of $PATH.\
 3-paths: Count dir in path.\
 4-global_variables: List environment var.\
-5-local_variables: List all env var, local var, functions.
+5-local_variables: List all env var, local var, functions.\
+6-create_local_variable: Create a local var Best=School.
